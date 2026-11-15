@@ -75,6 +75,7 @@ Throughout this assignment, I developed a hands-on mental model of how computer 
 2. **Code requires an execution engine:** Programs do not run by magic; compilers convert source text to machine code ahead of time, while interpreters evaluate instructions dynamically at runtime.
 3. **Data is universal bits:** All texts, numbers, and media reduce to 0s and 1s. Understanding bases (decimal, binary, hex) and encoding schemes (ASCII and UTF-8) clarifies how computers reliably store and interchange information.
 4. **Git gives safety and collaboration:** Staging, branching, and atomic commits make software development predictable, traceable, and secure.
+5. **Networking powers connectivity:** Understanding packets, DNS resolution, and client-server communication clarifies how the modern web functions.
 
 ---
 
